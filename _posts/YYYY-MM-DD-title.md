@@ -1,2 +1,1 @@
-2021-0614
-creating my first blog
+2021-06-14
