@@ -1,2 +1,2 @@
-2021-06-14
+2021-0614
 creating my first blog
